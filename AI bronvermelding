@@ -1,0 +1,20 @@
+# WeatherFlow
+**Smart weather, smarter living.**
+
+WeatherFlow is een slimme app die live weerinformatie combineert met smart home-functies.  
+De app berekent automatisch hoe hard verwarming, ventilatie en bewatering moeten werken op basis van actuele weerdata.
+
+## 🔧 Technologie
+- Python  
+- File I/O  
+- JSON  
+- Open-Meteo API  
+- Try/Except foutafhandeling  
+
+## 🧠 Bronvermelding AI
+Ik heb **ChatGPT** gebruikt om uitleg te krijgen over:
+- hoe ik bestanden in aparte modules kon verdelen  
+- hoe ik de OpenMeteo API kon toevoegen  
+- hoe ik try/except moest gebruiken  
+
+Ik heb de code zelf aangepast en getest.
